@@ -12,7 +12,7 @@ Starting with the proper imports
 *Note: [Need to install pandas-datareader for this to work!](https://github.com/pydata/pandas-datareader) Pandas datareader allows to [read stock information directly from the internet](http://pandas.pydata.org/pandas-docs/stable/remote_data.html) Use these links for install guidance (**pip install pandas-datareader**), or just follow along with the video lecture.*
 
 ## Data
-We need to get data using pandas datareader. We will get stock information for the following companies:
+Pandas datareader is used to get stock information for the following companies:
 *  Bank of America
 * CitiGroup
 * Goldman Sachs
